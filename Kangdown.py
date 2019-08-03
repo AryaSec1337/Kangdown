@@ -23,7 +23,7 @@ os.system("figlet Kang Down")
 print
 print  "Author     : Mr.TenAr"
 print  "Youtube    : https:.//www.youtube.com/channel/UCTp6yYYTifltFu5x-BzZzCg"
-print  "github     : Coming soon"
+print  "github     : https://github.com/Aryaalfahrezi010/Kangdown"
 print  "facebook   : https://www.facebook.com/Aryaalfahrezy"
 print  "Team       : Akatsuki Cyber Team"
 print
